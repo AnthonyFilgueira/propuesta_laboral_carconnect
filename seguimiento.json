@@ -1,0 +1,9 @@
+{
+    "host": "propuesta-laboral-carconnect.innodite.com",
+    "nombre": "CarConnect",
+    "codigos": {
+        "c1": "Correo a Jeniffer Valladares (RR. HH.)",
+        "c2": "Nota de conexión de LinkedIn a Juan Diego Montero"
+    },
+    "minimo": false
+}
